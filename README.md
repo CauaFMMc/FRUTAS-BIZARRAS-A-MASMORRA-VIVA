@@ -1,12 +1,12 @@
 # FRUTAS-BIZARRAS-A-MASMORRA-VIVA
 
----------🎮 Sobre o Jogo---------
+[---------🎮 Sobre o Jogo 🎮---------]
 
 Frutas Bizarras: A Masmorra Viva é um jogo de aventura e RPG feito em linguagem C, onde você assume o papel de um explorador preso em uma masmorra viva e mutável. Seu principal objetivo é usar as lendárias Frutas Bizarras, artefatos mágicos capazes de se teleportar umas para as outras, para escapar de armadilhas e alcançar a saída em segurança.
 
 O jogo possui três fases desafiadoras, cada uma com puzzles, inimigos e elementos interativos como chaves, botões e portas, além de um menu, tela de derrota, créditos e uma mensagem de despedida ao sair.
 
----------📖 História---------
+[---------📖 História 📖---------]
 
 Há muito tempo, em um continente esquecido pelo tempo, existia uma raça antiga conhecida como os Semeadores Eternos. Eles criaram um artefato mágico em forma de fruta — uma relíquia viva capaz de burlar as leis do espaço: a Fruta Bizarra. Ela podia se teleportar instantaneamente para outra fruta bizarra próxima, conectando dimensões e realidades.
 
@@ -18,7 +18,7 @@ Conforme você avança, descobre que a masmorra está viva, reagindo aos seus mo
 
 Mas cuidado: a masmorra não quer deixar você sair. E há algo, ou alguém, esperando por você no núcleo dela.
 
----------🕹️ Como Jogar---------
+---------🕹️ Como Jogar 🕹️---------
 
 Use W, A, S, D para se mover.
 
@@ -28,7 +28,7 @@ Encontre chaves e pressione botões para abrir portas.
 
 Evite inimigos, um que se movimenta aleatoriamente e outro que te segue e restreia.
 
----------💻 Requisitos---------
+---------💻 Requisitos 💻---------
 
 Sistema: Linux ou Windows
 
@@ -38,7 +38,7 @@ Terminal ou prompt de comando
 
 Teclado
 
----------🧱 Estrutura do Jogo---------
+---------🧱 Estrutura do Jogo 🧱---------
 
 Menu Principal: Iniciar Jogo, Créditos, Sair
 
@@ -54,7 +54,7 @@ Créditos: Brenno Yasuhei, Guilherme Mergulhão, Cauã Felipe.
 
 Mensagem de Despedida: Quando o jogador sai
 
----------👨‍💻 Equipe de Desenvolvimento---------
+---------👨‍💻 Equipe de Desenvolvimento 👨‍💻---------
 
 Brenno Yasuhei Tsuchiya
 
