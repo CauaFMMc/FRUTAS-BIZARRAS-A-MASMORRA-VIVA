@@ -18,7 +18,7 @@ Conforme você avança, descobre que a masmorra está viva, reagindo aos seus mo
 
 Mas cuidado: a masmorra não quer deixar você sair. E há algo, ou alguém, esperando por você no núcleo dela.
 
----------🕹️ Como Jogar 🕹️---------
+[---------🕹️ Como Jogar 🕹️---------]
 
 Use W, A, S, D para se mover.
 
@@ -28,7 +28,7 @@ Encontre chaves e pressione botões para abrir portas.
 
 Evite inimigos, um que se movimenta aleatoriamente e outro que te segue e restreia.
 
----------💻 Requisitos 💻---------
+[---------💻 Requisitos 💻---------]
 
 Sistema: Linux ou Windows
 
@@ -38,7 +38,7 @@ Terminal ou prompt de comando
 
 Teclado
 
----------🧱 Estrutura do Jogo 🧱---------
+[---------🧱 Estrutura do Jogo 🧱---------]
 
 Menu Principal: Iniciar Jogo, Créditos, Sair
 
@@ -54,7 +54,7 @@ Créditos: Brenno Yasuhei, Guilherme Mergulhão, Cauã Felipe.
 
 Mensagem de Despedida: Quando o jogador sai
 
----------👨‍💻 Equipe de Desenvolvimento 👨‍💻---------
+[---------👨‍💻 Equipe de Desenvolvimento 👨‍💻---------]
 
 Brenno Yasuhei Tsuchiya
 
